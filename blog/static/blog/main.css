@@ -1,0 +1,91 @@
+body{
+    background: white;
+    color: black;
+    margin-top: 5rem;
+}
+
+h1, h2, h3, h4, h5, h6{
+    color:#4444 ;
+}
+
+ul{
+    margin: 0;
+}
+
+.bg-steel{
+    background-color: black;
+}
+
+.site-header .navbar-nav .nav_link{
+    color: aquamarine;
+    display: block;
+    
+}
+.site-header .navbar-nav .nav-link.active {
+    font-weight: 500;
+  }
+  
+  .content-section {
+    background: hsl(0, 37%, 97%);
+    padding: 10px 20px;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    right: 50px;
+  }
+  
+  .article-title {
+    color: hsla(0, 30%, 96%, 0.048);
+  }
+  
+  a.article-title:hover {
+    color: #428bca;
+    text-decoration: none;
+  }
+  
+  .article-content {
+    white-space: pre-line;
+  }
+  
+  .article-image {
+    height: 50px;
+    width: 50px;
+    margin-right: 16px;
+    margin-left: 16px;
+  }
+  
+  .article-metadata {
+    padding-bottom: 1px;
+    margin-bottom: 4px;
+    border-bottom: 1px solid #e3e3e3
+  }
+  
+  .article-metadata a:hover {
+    color: #f3ebeb;
+    text-decoration: none;
+  }
+  
+  .article-svg {
+    width: 25px;
+    height: 25px;
+    vertical-align: middle;
+  }
+  
+  .account-img {
+    height: 50px;
+    width: 50px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+  }
+  
+  .account-heading {
+    font-size: 2.5rem;
+  }
+
+  #logout-form {
+    display: inline;
+  }
+
+  
+  
